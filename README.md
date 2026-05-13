@@ -53,6 +53,8 @@
 
 
 ## Output:
+<img width="882" height="701" alt="image" src="https://github.com/user-attachments/assets/e2d5107b-29de-42c4-b05e-1d0f5b368436" />
+<img width="895" height="483" alt="image" src="https://github.com/user-attachments/assets/10fa5d84-0b16-4acf-a912-3d4fc6cafe19" />
 
 
 ### Name:DINESH R
